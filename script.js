@@ -5,11 +5,12 @@
 const CONFIG = {
   title: "🌻 Feliz Día de las Flores Amarillas 🌻",
   message: [
-    "Cada girasol que ves aquí es un latido de mi corazón cachetes.",
-    "Así como el sol ilumina los campos, tú iluminas mi vida con tus locuras.",
+    "Cada girasol que ves aquí es un latido de mi corazón ojitos.",
+    "Así como el sol ilumina los campos, tú iluminas mi vida con tus ocurrencias.",
     "Que estas flores te recuerden lo especial que eres para mí.",
-    "Tal vez no pueda regalarte un ramo real por la distancia, pero te doy este con mucho cariño.",
-    "¡Te amo coshita rica!",
+    "Tal vez no pueda regalarte un ramo real por el momento, pero te doy este con mucho cariño.",
+    "Espero poder verte y demostrarte que todo lo que siento por ti es sincero.",
+    "¡Te quiero cosita preciosa!",
   ],
   signature: "Eres el sol que hace florecer cada uno de mis días ♡.",
   flowerCount: 280, // cantidad de girasoles en el corazón
