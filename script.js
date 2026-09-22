@@ -9,7 +9,7 @@ const CONFIG = {
     "Así como el sol ilumina los campos, tú iluminas mi vida con tus ocurrencias.",
     "Que estas flores te recuerden lo especial que eres para mí.",
     "Tal vez no pueda regalarte un ramo real por el momento, pero te doy este con mucho cariño.",
-    "Espero poder verte y demostrarte que todo lo que siento por ti es sincero.",
+    "Espero poder verte y demostrarte todo lo que siento por ti.",
     "¡Te quiero cosita preciosa!",
   ],
   signature: "Eres el sol que hace florecer cada uno de mis días ♡.",
