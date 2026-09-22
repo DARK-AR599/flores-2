@@ -28,9 +28,9 @@ const CONFIG = {
      En laptop/horizontal las fotos se ven juntas, lado a lado.
      En celular/vertical se turnan a pantalla completa. */
   photos: [
-    { src: "fotos/foto2.jpg", fit: "cover", pos: "88% 45%", veil: 0.4 },
-    { src: "fotos/foto1.jpg", fit: "contain", align: "right", pos: "10% 12%", veil: 0.42 },
-  ],
+    { src: "foto2.jpeg", fit: "cover", pos: "88% 45%", veil: 0.4 },
+    { src: "foto1.jpg", fit: "contain", align: "right", pos: "10% 12%", veil: 0.42 },
+],
   photoInterval: 6000, // solo celular: milisegundos entre foto y foto
 };
 
